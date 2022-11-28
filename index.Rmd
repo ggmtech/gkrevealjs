@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-date: "12/06/2019"
+title: "Reveal js slides"
+date: "`r Sys.Date()`" # date: "30th Oct 2022"
 output:
   revealjs::revealjs_presentation:
     background_transition: none
